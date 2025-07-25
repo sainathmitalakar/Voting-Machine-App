@@ -1,4 +1,4 @@
-# Voting Machine Java Application 🗳️
+# Voting Machine Java Application 
 
 A simple terminal-based voting machine system built in Java. Cast votes, view results, and manage via an admin panel. Includes Dockerfile and Jenkinsfile for CI/CD.
 
